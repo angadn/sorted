@@ -12,6 +12,6 @@ foo := map[string]float64{
 sortedFoo := NewStringToFloat64Map(foo)
 sortedFoo.Sort() // or .SortInDescending()
 sortedFoo.Iterate(func(k string, v float64) {
-	// Everything...in the right place 📻👱‍
+	// Everything...in the right place 📻👱 ‍
 })
 ```
