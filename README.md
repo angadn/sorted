@@ -1,6 +1,6 @@
 # sorted
 ## Data-types supported
-###map[string]float64
+### map[string]float64
 ```
 foo := map[string]float64{
 	"hello": 0.98,
